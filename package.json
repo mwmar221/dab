@@ -1,0 +1,22 @@
+{
+  "name": "dab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwmar221/dab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwmar221/dab/issues"
+  },
+  "homepage": "https://github.com/mwmar221/dab#readme",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
